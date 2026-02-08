@@ -1,4 +1,4 @@
-<a href="https://profile.codersrank.io/user/xg4np">![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=xg4np)</a>
+<a href="[https://profile.codersrank.io/user/xg4np](https://profile.codersrank.io/user/xg4np)">![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=xg4np)</a>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -19,6 +19,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xG4nP&label=Profile%20Views&color=7AA2F7&style=flat" />
 </p>
+
+<a href="https://profile.codersrank.io/user/xg4np">![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=xg4np)</a>
 
 Hello i am Pat also known as xG4NP, a software engineer specializing in the deep-level optimization of the **Linux Kernel** and the **Android Open Source Project (AOSP)** ecosystem. My technical practice is rooted in the pursuit of computational efficiency, focusing on deconstructing and re-engineering system bottlenecks at the micro-architectural level.
 
