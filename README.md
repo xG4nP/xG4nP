@@ -1,3 +1,5 @@
+<a href="https://profile.codersrank.io/user/xg4np">![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=xg4np)</a>
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xG4nP&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
