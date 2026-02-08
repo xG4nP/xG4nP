@@ -54,14 +54,6 @@ By employing a **First Principles** engineering methodology, I specialize in bri
 
 ---
 
-### 📊 Performance Metrics & Contribution Data
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app" width="48%" alt="xG4nP Performance Statistics" />
-  <img src="https://github-readme-stats.vercel.app" width="45%" alt="xG4nP Language Proficiency" />
-</p>
-
----
-
 ### 📜 Engineering Philosophy & Quotes
 
 > *"In the realm of systems engineering, beauty is found in the reduction of complexity. A perfect system is not one where there is nothing more to add, but where there is nothing left to take away."* — **xG4nP**
@@ -79,15 +71,3 @@ The **xG4nP** identity is maintained across specialized platforms to ensure tech
 | **Telegram** | [Direct Technical Inquiry](https://t.me) | Real-time Collaboration & Systems Support |
 | **Email** | [Professional Gateway](mailto:Patrick.ricafrente27@gmail.com) | Official Inquiries & Project Proposals |
 
----
-
-<p align="right">
-  
-  <img src="https://img.shields.io" alt="xG4nP Status">
-  <img src="https://img.shields.io" alt="xG4nP Focus">
-</p>
-
----
-<p align="center">
-  <sub>© 2024-2026 xG4nP • Optimized for Professional Discovery and Systems Engineering Excellence</sub>
-</p>
