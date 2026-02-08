@@ -1,4 +1,4 @@
-Hello i am Pat, a software engineer specializing in the deep-level optimization of the **Linux Kernel** and the **Android Open Source Project (AOSP)** ecosystem. My technical practice is rooted in the pursuit of computational efficiency, focusing on deconstructing and re-engineering system bottlenecks at the micro-architectural level.
+Hello i am Pat also known as xG4NP, a software engineer specializing in the deep-level optimization of the **Linux Kernel** and the **Android Open Source Project (AOSP)** ecosystem. My technical practice is rooted in the pursuit of computational efficiency, focusing on deconstructing and re-engineering system bottlenecks at the micro-architectural level.
 
 By employing a **First Principles** engineering methodology, I specialize in bridging the gap between proprietary silicon and community-driven software innovation. My objective is to deliver robust, high-performance software environments that maximize hardware throughput while adhering to the most stringent standards of stability and security.
 
