@@ -1,3 +1,23 @@
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xG4nP&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xG4nP&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Commit Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xG4nP&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xG4nP&label=Profile%20Views&color=7AA2F7&style=flat" />
+</p>
+
 Hello i am Pat also known as xG4NP, a software engineer specializing in the deep-level optimization of the **Linux Kernel** and the **Android Open Source Project (AOSP)** ecosystem. My technical practice is rooted in the pursuit of computational efficiency, focusing on deconstructing and re-engineering system bottlenecks at the micro-architectural level.
 
 By employing a **First Principles** engineering methodology, I specialize in bridging the gap between proprietary silicon and community-driven software innovation. My objective is to deliver robust, high-performance software environments that maximize hardware throughput while adhering to the most stringent standards of stability and security.
